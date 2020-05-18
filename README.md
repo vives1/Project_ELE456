@@ -5,7 +5,7 @@ MATLAB code to solve Cavity-Bloch equations and produce plots.
 ### Experimental Measurement of Cavity Pull 
 Qiskit code to measure chi 
 ### QuTiP_simulation 
-Solving the system using the Lindblad master equation solver and produce plots.
+Solving the system using the Lindblad master equation solver in QuTiP to produce plots.
 
 ### Cavity Dynamics
 IBM Q's measurement of the cavity field as a function of time. The cavity is coupled to a transmon qubit. As such the cavity field is measured for the qubit in both the ground and excited states. The pi-pulse used to excite the qubit is obtained from the latest backend calibration.
